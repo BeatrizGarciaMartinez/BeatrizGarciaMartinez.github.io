@@ -1,2 +1,2 @@
 # BeatrizGarciaMartinez.github.io
-Proyecto portafolio con HTUL, CSS y JS
+Proyecto portafolio con HTML, CSS y JS
